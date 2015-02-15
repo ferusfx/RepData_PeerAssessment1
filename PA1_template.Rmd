@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research - Peer Assignment 1"
-author: "Oleg Denisov"
+author: "O.D."
 date: "Thursday, February 15, 2015"
 output: html_document
 ---
